@@ -1,4 +1,4 @@
-##EXPLICACIÓN DEL DIAGRAMA DE CLASES
+## EXPLICACIÓN DEL DIAGRAMA DE CLASES
 
 En el diagrama de clases entregado mostramos las relaciones que se establecen entre las clases de nuestro problema, junto a sus atributos y métodos. A continuación voy a explicar dichas relaciones y añadir reseñas importantes para entenderlas.
 
